@@ -27,8 +27,10 @@
 
 书目：
 
-1. 乙女爱上姐姐2 ～二人的艾露达～ [购买原版书](https://www.amazon.co.jp/dp/4797362901/) [购买电子书](https://www.amazon.co.jp/dp/B008ASDX62/)
-2. 乙女爱上姐姐2 ～望着窗外的异乡人～ [购买原版书](https://www.amazon.co.jp/dp/4797364068/) [购买电子书](https://www.amazon.co.jp/dp/B008V9QSZS/)
-3. 乙女爱上姐姐2 ～黄金的囚笼 带刺的鸟笼～ [购买原版书](https://www.amazon.co.jp/dp/4797366451/) [购买电子书](https://www.amazon.co.jp/dp/B00C4L7D1W/)
-4. 乙女爱上姐姐2 ～紫色的黎明～ [购买原版书](https://www.amazon.co.jp/dp/4797370300/) [购买电子书](https://www.amazon.co.jp/dp/B00C4L7BUU/)
-5. [乙女爱上姐姐2 ～如同时过境迁的花一般～](5 移りゆく花のように/) [购买原版书](https://www.amazon.co.jp/dp/4797373377/) [购买电子书](https://www.amazon.co.jp/dp/B00H1O5QCA/)
+书名|在亚马逊购买原版书|在亚马逊购买正版电子书
+----|----|----
+乙女爱上姐姐2 ～二人的艾露达～ | [4797362901](https://www.amazon.co.jp/dp/4797362901/) | [B008ASDX62](https://www.amazon.co.jp/dp/B008ASDX62/)
+乙女爱上姐姐2 ～望着窗外的异乡人～ | [4797364068](https://www.amazon.co.jp/dp/4797364068/) | [B008V9QSZS](https://www.amazon.co.jp/dp/B008V9QSZS/)
+乙女爱上姐姐2 ～黄金的囚笼 带刺的鸟笼～ | [4797366451](https://www.amazon.co.jp/dp/4797366451/) | [B00C4L7D1W](https://www.amazon.co.jp/dp/B00C4L7D1W/)
+乙女爱上姐姐2 ～紫色的黎明～ | [4797370300](https://www.amazon.co.jp/dp/4797370300/) | [B00C4L7BUU](https://www.amazon.co.jp/dp/B00C4L7BUU/)
+[乙女爱上姐姐2 ～如同时过境迁的花一般～](5 移りゆく花のように/0.0.md) | [4797373377](https://www.amazon.co.jp/dp/4797373377/) | [B00H1O5QCA](https://www.amazon.co.jp/dp/B00H1O5QCA/)
