@@ -24,6 +24,7 @@
 校对：
 
 - MeteorRain
+- [Rrx零](http://tieba.baidu.com/home/main?un=Rrx%C1%E3)@百度贴吧
 
 书目：
 
